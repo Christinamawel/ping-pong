@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-// using PingPong.Models;
 
 namespace PingPong
 {
@@ -22,34 +21,23 @@ namespace PingPong
       }
       foreach (int num in numberList) 
       {
-        Console.WriteLine(num);
-        // add the rest of the program
+        if (num % 3 == 0 && num % 5 == 0)
+        {
+          Console.WriteLine("ping-pong");
+        } 
+          else if (num % 3 == 0)
+        {
+          Console.WriteLine("ping");
+        } 
+          else if (num % 5 == 0)
+        {
+          Console.WriteLine("pong");
+        }
+          else
+        {
+          Console.WriteLine(num);
+        }
       }
     }
   }
-
-
-/*using System;
-
-class LeapYear
-{
-  static void Main()
-  {
-    Console.WriteLine("What year were you born in?");
-    string birthYear = Console.ReadLine();
-    int intBirthYear = int.Parse(birthYear);
-
-    Console.WriteLine("You were alive during these leap years:");
-    for (int year = intBirthYear; year <= 2020; year ++)
-    {
-    if (year % 4 == 0)
-      {
-        Console.WriteLine(year);
-      }
-    }
-  }
-}*/
-
-
-
 }
