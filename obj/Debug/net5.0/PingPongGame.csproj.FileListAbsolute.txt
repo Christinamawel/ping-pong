@@ -1,0 +1,16 @@
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.csproj.AssemblyReference.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.exe
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.deps.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.runtimeconfig.dev.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\ref\PingPongGame.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\bin\Debug\net5.0\PingPongGame.pdb
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\ref\PingPongGame.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.pdb
+C:\Users\smile\OneDrive\Desktop\Epicodus\Ping-pong\obj\Debug\net5.0\PingPongGame.genruntimeconfig.cache
